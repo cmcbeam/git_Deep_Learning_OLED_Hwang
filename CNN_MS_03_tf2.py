@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  9 13:46:03 2020
 
-@author: Hwang
-"""
+# 코드를 여러 pc에서 활용 'git_deep learning OLED Hwang'20230702
 
 import tensorflow as tf
 import os
