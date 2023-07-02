@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # 코드를 여러 pc에서 활용 'git_deep learning OLED Hwang'20230702
+# 위 내용에 github에서 다시 수정함 동일 날자임
 
 import tensorflow as tf
 import os
